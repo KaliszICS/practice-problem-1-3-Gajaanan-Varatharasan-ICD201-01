@@ -5,7 +5,7 @@ print("\n* * * * *\n*       *\n*       *\n*       *\n* * * * *")
 print("\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
  #Write Assignment code here
 print("Hello" , end = "") 
-print(" World")
+print(" World\n")
 
   #Write Assignment code here
 print('"Man"')
