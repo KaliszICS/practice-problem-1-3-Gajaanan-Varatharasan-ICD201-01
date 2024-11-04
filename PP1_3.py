@@ -1,7 +1,7 @@
 #Write Assignment code here
 #Remember your code must be indented once
 def q1():
-  print ( " * * * * * \n * * * * \n * * * * * *\n * * * * \n * * * * * *\n * * * * *\n" )
+  print (" * * * * * \n * * * * \n * * * * * *\n * * * * \n * * * * * *\n * * * * *\n")
   print ("* * * * \n       \n       \n       \n * * * *\n")
   print ("* * * * * \n *       *\n       \n   *   *\n     *\n     *")
 def q2():
